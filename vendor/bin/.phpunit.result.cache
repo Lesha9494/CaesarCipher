@@ -1,1 +1,0 @@
-{"version":1,"defects":{"Tests\\CaesarCipherTest::testEncryptUppercase":8,"Tests\\CaesarCipherTest::testEncryptNumber":8,"Tests\\CaesarCipherTest::testEncryptNotEqual":8},"times":{"Tests\\CaesarCipherTest::testEncryptUppercase":0.023,"Tests\\CaesarCipherTest::testEncryptNumber":0.001,"Tests\\CaesarCipherTest::testEncryptNotEqual":0.007}}
